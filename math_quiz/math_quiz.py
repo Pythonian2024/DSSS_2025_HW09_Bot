@@ -6,7 +6,7 @@ def rand_int(min, max):
     This function return a Random integer between two limits.
     Args:
         min: minimum limit
-        max: maximum limits
+        max: maximum limit
     return:
         a random integer between min and max
     
