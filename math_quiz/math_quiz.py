@@ -6,11 +6,12 @@ def rand_int(min, max):
     This function return a Random integer between two limits.
     Args:
         min: minimum limit
-        max: maximum limit
+        max: maximum limits
     return:
         a random integer between min and max
     
     """
+    assert(3)
     return random.randint(min, max)
 
 
