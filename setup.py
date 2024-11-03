@@ -9,7 +9,7 @@ Created on Sun Nov  3 22:54:05 2024
 from setuptools import setup, find_packages
 
 setup(
-    name="Math Game package",
+    name="math_quiz",
     version="0.1.0",
     description="A simple package for a Math Game",
     long_description=open("README.md").read(),
